@@ -1,0 +1,16 @@
+{
+  "name": "V8",
+  "version": "1.0.0",
+  "description": "CentryPlan V8 Server API Implemented in JavaScript ",
+  "main": "main.js",
+  "repository": "https://github.com/siteworker/V8.git",
+  "author": "siteworker",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "dev": "nodemon server"
+  },
+  "dependencies": {
+    "fastify": "^3.9.2"
+  }
+}
